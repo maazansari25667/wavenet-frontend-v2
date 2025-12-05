@@ -1,0 +1,10 @@
+<svg width="220" height="70" viewBox="0 0 220 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="70" rx="8" fill="transparent"/>
+  <g>
+    <polygon points="25,20 45,8 65,20 65,40 45,52 25,40" fill="#0d5ec7"/>
+    <polygon points="45,20 65,8 85,20 85,40 65,52 45,40" fill="#0a75d4"/>
+  </g>
+  <text x="105" y="42" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#0d62b5">
+    telnect
+  </text>
+</svg>
